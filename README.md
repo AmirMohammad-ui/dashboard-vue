@@ -1,1 +1,1 @@
-#Dashboard app with vueJS
+#Dashboard app with vue
